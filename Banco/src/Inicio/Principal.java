@@ -282,7 +282,7 @@ public class Principal {
         Conta conta = null;
         int count = 0;
         double total = 0.0;
-        String contas = "\n LISTA DE CONTAS \n", inicio = "";
+        String contas = "LISTA DE CONTAS \n", inicio = "";
         String cpf = JOptionPane.showInputDialog(null, "CPF DO CLIENTE: ");
         cpf = formatarCpfCnpj(cpf);
         for (Agencia a : listAgencia) {
