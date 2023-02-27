@@ -132,9 +132,9 @@ public class Principal {
                 "---------------------------------------------------------------\n" +
                         " [1] DEPÓSITO\n" +
                         " [2] SAQUE\n" +
-                        " [3] TRANSFÊNCIA\n" +
+                        " [3] TRANSFERÊNCIA\n" +
                         " [4] SALDO\n" +
-                        " [5] EXTRADO\n" +
+                        " [5] EXTRATO\n" +
                         " [0] VOLTAR\n" +
                         "---------------------------------------------------------------\n",
                 "MOVIMENTAÇÃO DE CONTAS\n", JOptionPane.INFORMATION_MESSAGE));
