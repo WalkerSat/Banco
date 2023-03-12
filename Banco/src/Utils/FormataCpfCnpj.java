@@ -28,11 +28,3 @@ public class FormataCpfCnpj {
         return cnpj;
     }
 }
-
-/*
- * if (cpfCnpj.substring(0, 3).matches("^[a-zA-Z]*$") || cpfCnpj.substring(4,
- * 7).matches("^[a-zA-Z]*$")
- * || cpfCnpj.substring(8, 11).matches("^[a-zA-Z]*$")
- * || cpfCnpj.substring(12, 14).matches("^[a-zA-Z]*$")) {
- * }
- */
